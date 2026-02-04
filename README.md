@@ -20,8 +20,8 @@
 |:-:|------------|:----:|:------:|
 | 1 | Numerical Errors (Round-off & Truncation) | [`numerical_errors.py`](./EXP1/numerical_errors.py) | ✅ |
 | 2 | Bisection Method | [`bisection.py`](./EXP2/bisection.py) | ✅ |
-| 3 | — | — | ⏳ |
-| 4 | — | — | ⏳ |
+| 3 | Newton-Raphson Method | [`Q1`](./EXP3/question1.py) • [`Q2`](./EXP3/question2.py) | ✅ |
+| 4 | Regula-Falsi Method | [`Q1`](./EXP4/question1.py) • [`Q2`](./EXP4/question2.py) | ✅ |
 | 5 | — | — | ⏳ |
 | 6 | — | — | ⏳ |
 | 7 | — | — | ⏳ |
@@ -37,7 +37,9 @@
 📁 Numerical-Methods-Python
  ├── 📂 EXP1/
  ├── 📂 EXP2/
- ├── 📂 EXP3/ ...
+ ├── 📂 EXP3/
+ ├── 📂 EXP4/
+ ├── 📂 EXP5/ ...
  └── 📄 README.md
 ```
 
@@ -48,6 +50,8 @@
 ```bash
 python EXP1/numerical_errors.py
 python EXP2/bisection.py
+python EXP3/question1.py
+python EXP4/question1.py
 ```
 
 ---
