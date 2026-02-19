@@ -22,7 +22,7 @@
 | 2 | Bisection Method | [`bisection.py`](./EXP2/bisection.py) | ✅ |
 | 3 | Newton-Raphson Method | [`Q1`](./EXP3/question1.py) • [`Q2`](./EXP3/question2.py) | ✅ |
 | 4 | Regula-Falsi Method | [`Q1`](./EXP4/question1.py) • [`Q2`](./EXP4/question2.py) | ✅ |
-| 5 | — | — | ⏳ |
+| 5 | Gauss Elimination Method | [`Q1`](./EXP5/question1.py) | ✅ |
 | 6 | — | — | ⏳ |
 | 7 | — | — | ⏳ |
 | 8 | — | — | ⏳ |
