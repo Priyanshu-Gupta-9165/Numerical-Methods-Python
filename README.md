@@ -27,7 +27,7 @@
 | 7 | Newton's Divided Difference Interpolation | [`Q1`](./EXP7/question1.py) | ✅ |
 | 8 | — | — | ⏳ |
 | 9 | — | — | ⏳ |
-| 10 | — | — | ⏳ |
+| 10 | Polynomial Regression Dashboard (Project) | [`Project/polynomial_dashboard.py`](./Project/polynomial_dashboard.py) | ✅ |
 
 ---
 
