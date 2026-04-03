@@ -31,6 +31,23 @@
 
 ---
 
+## 🚀 Projects
+
+### 📈 Polynomial Regression Dashboard
+A fully interactive web-based dashboard built using **Streamlit**, **Scikit-learn**, and **Plotly** to visualize and analyze the concepts of polynomial regression. 
+* **Key Features:**
+  - Data inputs via CSV upload or manual comma-separated values.
+  - Dynamically adjustable polynomial degree (ranging from 1 to 15) using an interactive UI slider.
+  - Real-time visualizations comparing original datasets to generated continuous polynomial curves via Plotly.
+  - Instant Error Analysis metrics calculating **Mean Squared Error (MSE)** and **Root Mean Squared Error (RMSE)**.
+  - Demonstrates complex mathematical phenomenons like **Overfitting** vs **Underfitting** beautifully.
+  - Generates the accurate algebraic mathematical formula rendering of the fitted line.
+  - Interactive prediction component to calculate `Y` extrapolations from entered `X` values.
+  - Download functionality to get results accurately.
+* **Location:** [`Project/polynomial_dashboard.py`](./Project/polynomial_dashboard.py)
+
+---
+
 ## � Structure
 
 ```
@@ -41,7 +58,8 @@
  ├── 📂 EXP4/
  ├── 📂 EXP5/
  ├── 📂 EXP6/
- ├── 📂 EXP7/ ...
+ ├── 📂 EXP7/
+ ├── 📂 Project/ ...
  └── 📄 README.md
 ```
 
@@ -57,6 +75,9 @@ python EXP4/question1.py
 python EXP5/question1.py
 python EXP6/question1.py
 python EXP7/question1.py
+
+# Run Polynomial Regression Dashboard
+streamlit run Project/polynomial_dashboard.py
 ```
 
 ---
